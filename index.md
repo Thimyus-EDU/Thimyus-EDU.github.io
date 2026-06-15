@@ -28,9 +28,9 @@ The third enhancement focused on databases. I replaced JSON-based persistence wi
 
 * [Original Artifact Files](artifacts/original/)
 * [Enhanced Artifact Files](artifacts/enhanced/)
-* [Software Design and Engineering Narrative](narratives/narrative-one.md)
-* [Algorithms and Data Structures Narrative](narratives/narrative-two.md)
-* [Databases Narrative](narratives/narrative-three.md)
+* [Software Design and Engineering Narrative](narratives/NarrativeOne.md)
+* [Algorithms and Data Structures Narrative](narratives/NarrativeTwo.md)
+* [Databases Narrative](narratives/NarrativeThree.md)
 
 ## Professional Focus
 

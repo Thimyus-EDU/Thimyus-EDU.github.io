@@ -50,7 +50,7 @@ This enhancement also supports the outcome related to using well-founded computi
 
 ## Supporting Files
 
-* [Algorithms and Data Structures Narrative](narratives/NarrativeTwo.docx)
+* [Algorithms and Data Structures Narrative](narratives/NarrativeTwo.md)
 * [Enhanced Source Code](artifacts/enhanced/)
 * [Original Source Code](artifacts/original/)
 

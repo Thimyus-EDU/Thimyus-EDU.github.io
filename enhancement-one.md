@@ -35,7 +35,7 @@ This enhancement supports the course outcomes related to designing and evaluatin
 
 ## Supporting Files
 
-* [Software Design and Engineering Narrative](narratives/NarrativeOne.docx)
+* [Software Design and Engineering Narrative](narratives/NarrativeOne.md)
 * [Enhanced Source Code](artifacts/enhanced/)
 * [Original Source Code](artifacts/original/)
 

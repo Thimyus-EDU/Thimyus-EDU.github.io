@@ -1,6 +1,5 @@
 # CS 499 Milestone Two Narrative: Software Design and Engineering Enhancement
 
-**Student:** Thimyus Johnson
 **Enhancement Category:** Software Design and Engineering
 
 ## Artifact Description

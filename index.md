@@ -26,7 +26,7 @@ The third enhancement focused on databases. I replaced JSON-based persistence wi
 
 ## Source Code and Narratives
 
-* [Original Artifact Files](artifacts/original/Task%20Service/index.md)
+* [Original Artifact Files](artifacts/original/task-service/index.md)
 * [Enhanced Artifact Files](artifacts/enhanced/index.md)
 * [Software Design and Engineering Narrative](narratives/NarrativeOne.md)
 * [Algorithms and Data Structures Narrative](narratives/NarrativeTwo.md)

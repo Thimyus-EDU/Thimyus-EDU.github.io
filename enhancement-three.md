@@ -54,8 +54,8 @@ Finally, this enhancement supports the security outcome because it uses prepared
 ## Supporting Files
 
 * [Databases Narrative](narratives/NarrativeThree.md)
-* [Enhanced Source Code](artifacts/enhanced/)
-* [Original Source Code](artifacts/original/)
+* [Enhanced Source Code](artifacts/enhanced/index.md)
+* [Original Source Code](artifacts/original/index.md)
 
 [Return to Home](index.md)
 
